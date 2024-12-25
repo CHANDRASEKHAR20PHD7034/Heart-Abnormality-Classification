@@ -18,10 +18,10 @@ novel PJM-DJRNN approach.
 
 ## Table of Contents 
 
-Installation 
+-[Installation](#Installation) 
 Usage 
 Contribution 
 
-
+#Installation
 
 
