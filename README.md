@@ -31,7 +31,7 @@ The main contributions of the proposed research work are discussed as follows,
 
 
   
-# installation
+# Installation
 Here are the steps to install PyCharm:  
 
 1. Go to the [JetBrains website](https://www.jetbrains.com/pycharm/) and select PyCharm.  
