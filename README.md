@@ -1,5 +1,6 @@
 # Heart-Abnormality-Classification
 Heart Abnormality Classification Using ECG and PCG Recordings 
+![image](https://github.com/user-attachments/assets/fac75b7e-98f8-4e56-8a5c-08735a7f06bb)
 
 
 
@@ -19,7 +20,7 @@ novel PJM-DJRNN approach.
 
 
 
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/752d5ed1-675e-438b-961d-659be0561a51" />
+
 
 
 
