@@ -5,7 +5,6 @@ Heart Abnormality Classification Using ECG and PCG Recordings
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Datasetlink](#Datasetavailability)
 - [Contributing](#contributing)
