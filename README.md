@@ -18,7 +18,9 @@ novel PJM-DJRNN approach.
 
 ## Table of Contents 
 
-
+Installation 
+Usage 
+Contribution 
 
 
 
