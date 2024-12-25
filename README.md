@@ -5,9 +5,10 @@ Heart Abnormality Classification Using ECG and PCG Recordings
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Datasetlink](#Datasetavailability)
 - [Contribution](#contribution)
+- [Datasetlink](#Datasetavailability)
 - [Installation](#installation)
+- [Methodology](#Methodology)
 - [License](#license)
 
 # Introduction:                                                                                                                                                              
@@ -23,7 +24,7 @@ The main contributions of the proposed research work are discussed as follows,
 - To accurately diagnose the types of HD using the novel **PJM-DJRNN** approach.
 
 
-
+# Methodology
 
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/24c5dce4-68f7-4496-9472-5dee5e283847" />
 
