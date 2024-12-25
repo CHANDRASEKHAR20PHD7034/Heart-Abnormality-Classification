@@ -22,16 +22,19 @@ novel PJM-DJRNN approach.
 Usage 
 Contribution 
 
-## Installation
-Here are the steps to install PyCharm: 
-Go to the JetBrains website and select PyCharm
-Click the Download button
-Choose your platform and whether you want to download the Professional or Community option
-Click the browser button in the bottom left corner of the screen when the download is complete
-Open the PyCharm setup file and click Next to continue
-Choose an install location
-Select a Start Menu Folder
-Click Install
-Click Finish when the program is done installing
+## PyCharm Installation Steps  
+
+Here are the steps to install PyCharm:  
+
+1. Go to the [JetBrains website](https://www.jetbrains.com/pycharm/) and select PyCharm.  
+2. Click the **Download** button.  
+3. Choose your platform and whether you want to download the **Professional** or **Community** option.  
+4. Click the browser button in the bottom left corner of the screen when the download is complete.  
+5. Open the PyCharm setup file and click **Next** to continue.  
+6. Choose an install location.  
+7. Select a Start Menu Folder.  
+8. Click **Install**.  
+9. Click **Finish** when the program is done installing.  
+
 
 
